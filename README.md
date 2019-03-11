@@ -1,9 +1,14 @@
-# 论文管理说明
-### 1、论文记录包含：论文题目，期刊名，作者、单位、年份等信息
-### 2、简要的介绍论文主要工作、成果
-### 3、论文在线阅读或下载链接
-
-例：
-
-
-[链接](http://jianshu.com)
+# 管理阅读的论文资料
+### 记录信息包含：
+#### 1. 论文题目：含原文链接
+#### 2. 期刊信息：期刊名+出版时间
+#### 3. 作者信息：作者+第一作者单位
+#### 4. 论文简介：对论文主要研究内容、亮点的概述
+---
+#### 格式范例：  
+#### 1. The Collaborative Image of The City: Mapping the Inequality of Urban Perception
+###### 期刊信息：PLOS ONE （Received November 5, 2012; Accepted May 22, 2013; Published July 24, 2013）
+###### 作者信息：Philip Salesses1, Katja Schechtner1,2,3, Ce´sar A. Hidalgo1,4,5*
+(The MIT Media Lab, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America)
+###### 论文简介：基于PlacePuls项目收集的标记数据，统计分析标记结果值来解算城市不平等感知评分，进而对城市进行感知评价。并与凶杀案犯罪数据关联分析。研究结果表明，网络图像可以用来建立城市感知的可重现的量化指标，并可以用来描述不同城市之间的不平等。本文是街景等影像数据在城市感知研究中的探索性研究。
+---
